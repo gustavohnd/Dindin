@@ -38,8 +38,8 @@ article > .conteudo{
 }
 
 article .quadrado {
-    max-width: 518px;
-    max-height: 259px;
+    width: 518px;
+    height: 259px;
     background: #C4C4C4;
 }
 
